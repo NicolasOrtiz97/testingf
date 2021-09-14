@@ -1,0 +1,18 @@
+body{
+background-color: red;    
+}
+ul{
+    display: flex;
+    position: absolute;
+    top: 0px;
+    right: 20px;
+}
+li{
+    padding: 10px;
+    list-style: none;
+
+}
+a{
+    outline-style: none;
+    color: white;
+}
